@@ -1,0 +1,6 @@
+@PowerBI_API_UserFlow_HostAddress = http://localhost:5164
+
+GET {{PowerBI_API_UserFlow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
